@@ -1,0 +1,15 @@
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.App>button{
+  /* background-color: ; */
+  color: white;
+  border: 2px solid white;
+
+}
